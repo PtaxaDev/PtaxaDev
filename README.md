@@ -48,7 +48,7 @@
     </div>
   </a>
   <h4 align="center"><a href="https://discord.gg/AkhbheeDk9">PyroByte Scripts</a></h4>
-  <p align="center">Описание проекта: стек, функционал, и почему он крут.</p>
+  <p align="center">Самописные скрипты для платформы FiveM</p>
 </td>
 <td width="33%">
   <a href="Spotlight">
