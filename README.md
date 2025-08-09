@@ -74,10 +74,12 @@
 ---
 
 ## 🌐 Contacts
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PtaxaDev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ptaxa.dev)
+**Discord:** `ptaxa.dev`  
+**Email:** [ptaxadev@gmail.com](mailto:ptaxadev@gmail.com)  
+**GitHub:** [github.com/PtaxaDev](https://github.com/PtaxaDev)
 
 </div>
 
