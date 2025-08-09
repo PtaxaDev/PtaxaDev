@@ -73,14 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PtaxaDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PtaxaDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
----
-
 ## 🌐 Contacts
 <div align="center">
 
