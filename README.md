@@ -49,7 +49,7 @@
     </div>
   </a>
   <h4 align="center"><a href="https://discord.gg/AkhbheeDk9">PyroByte Scripts</a></h4>
-  <p align="center">Самописные скрипты для платформы FiveM</p>
+  <p align="center">Cкрипты для платформы FiveM</p>
 <td width="33%">
   <a href="https://github.com/PyroByteTeam">
     <div align="center">
