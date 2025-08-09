@@ -17,10 +17,10 @@
 ---
 
 ## 🧰 About Me
-💡 Люблю автоматизировать задачи, настраивать серверы и экспериментировать с технологиями.  
-🎯 Сейчас изучаю новые подходы к full-stack разработке и DevOps.  
-🛠 Опыт в **Lua, JavaScript, Docker, Apache, FiveM**.  
-🌍 Постоянно ищу интересные проекты, в которые можно внести вклад.  
+💡 I love automating tasks, configuring servers, and experimenting with technologies.  
+🎯 Currently exploring new approaches in full-stack development and DevOps.  
+🛠 Experienced in **Lua, JavaScript, Docker, Apache, FiveM**.  
+🌍 Always looking for interesting projects to contribute to.  
 
 ---
 
@@ -49,24 +49,25 @@
     </div>
   </a>
   <h4 align="center"><a href="https://discord.gg/AkhbheeDk9">PyroByte Scripts</a></h4>
-  <p align="center">Cкрипты для платформы FiveM</p>
+  <p align="center">Scripts for the FiveM platform</p>
+</td>
 <td width="33%">
   <a href="https://github.com/PyroByteTeam">
     <div align="center">
-      <img src="https://cdn.discordapp.com/icons/1302940928620757002/f20f0dd231dde51d7251b843ea65196a.webp?size=1024" width="40%" alt="Project Three" />
+      <img src="https://cdn.discordapp.com/icons/1302940928620757002/f20f0dd231dde51d7251b843ea65196a.webp?size=1024" width="40%" alt="PyroByte Team" />
     </div>
   </a>
   <h4 align="center"><a href="https://github.com/PyroByteTeam">PyroByte Team</a></h4>
-  <p align="center">Команда по розработке PyroByte.</p>
+  <p align="center">The team behind PyroByte development.</p>
 </td>
 <td width="33%">
   <a href="Spotlight">
     <div align="center">
-      <img src="https://cdn.discordapp.com/icons/1214204263958323220/c6d1ca0461d36f16240420650973bc20.webp?size=1024" width="40%" alt="Project Two" />
+      <img src="https://cdn.discordapp.com/icons/1214204263958323220/c6d1ca0461d36f16240420650973bc20.webp?size=1024" width="40%" alt="Spotlight" />
     </div>
   </a>
   <h4 align="center"><a href="https://discord.gg/GkfvDwAdxP">Spotlight</a></h4>
-  <p align="center">Дискорд сервер для вас и ваших игр.</p>
+  <p align="center">Discord server for you and your games.</p>
 </td>
 </tr>
 </table>
@@ -85,4 +86,4 @@
 
 ---
 
-<p align="center"><i>✨ "Сначала напиши работающий код, потом красивый код, а потом быстрый код." ✨</i></p>
+<p align="center"><i>✨ "First write working code, then beautiful code, then fast code." ✨</i></p>
