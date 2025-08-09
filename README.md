@@ -50,6 +50,14 @@
   </a>
   <h4 align="center"><a href="https://discord.gg/AkhbheeDk9">PyroByte Scripts</a></h4>
   <p align="center">Самописные скрипты для платформы FiveM</p>
+<td width="33%">
+  <a href="https://github.com/PyroByteTeam">
+    <div align="center">
+      <img src="https://cdn.discordapp.com/icons/1302940928620757002/f20f0dd231dde51d7251b843ea65196a.webp?size=1024" width="40%" alt="Project Three" />
+    </div>
+  </a>
+  <h4 align="center"><a href="https://github.com/PyroByteTeam">PyroByte Team</a></h4>
+  <p align="center">Команда по розработке PyroByte.</p>
 </td>
 <td width="33%">
   <a href="Spotlight">
@@ -59,15 +67,6 @@
   </a>
   <h4 align="center"><a href="https://discord.gg/GkfvDwAdxP">Spotlight</a></h4>
   <p align="center">Дискорд сервер для вас и ваших игр.</p>
-</td>
-<td width="33%">
-  <a href="YOUR_PROJECT_LINK_3">
-    <div align="center">
-      <img src="https://via.placeholder.com/300x150/0d1117/ffffff?text=Project+Three" width="80%" alt="Project Three" />
-    </div>
-  </a>
-  <h4 align="center">Placeholder</h4>
-  <p align="center">Описание проекта и его статус.</p>
 </td>
 </tr>
 </table>
