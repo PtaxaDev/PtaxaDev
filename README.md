@@ -52,7 +52,7 @@
 # 📈 Developer Dashboard
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PtaxaDev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PtaxaDev&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PtaxaDev&theme=tokyonight&utcOffset=3" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PtaxaDev&theme=github_dark&utcOffset=3" />
 </p>
 
 ---
