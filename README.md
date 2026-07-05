@@ -49,15 +49,20 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Developer Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PtaxaDev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PtaxaDev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PtaxaDev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PtaxaDev&theme=tokyonight&hide_border=true"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PtaxaDev&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PtaxaDev&theme=tokyonight" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PtaxaDev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PtaxaDev&theme=tokyonight&utcOffset=3" />
 </p>
 
 ---
